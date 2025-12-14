@@ -1,0 +1,12 @@
+D:\Proje\BayramDoğan\bin\Debug\BayramDoğan.exe.config
+D:\Proje\BayramDoğan\bin\Debug\BayramDoğan.exe
+D:\Proje\BayramDoğan\bin\Debug\BayramDoğan.pdb
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.csproj.AssemblyReference.cache
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.csproj.SuggestedBindingRedirects.cache
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.Form1.resources
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.Properties.Resources.resources
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.csproj.GenerateResource.cache
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.csproj.CoreCompileInputs.cache
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.exe
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.pdb
+D:\Proje\BayramDoğan\obj\Debug\BayramDoğan.Menü.resources
